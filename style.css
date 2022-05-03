@@ -1,0 +1,30 @@
+.main-image {
+    width: 500px;
+    height: auto;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+}
+
+a {
+    color: rgb(231, 174, 183)
+}
+
+* {
+    font-family: 'Radio Canada', sans-serif;
+}
+
+.long-text {
+    color: rgb(71, 71, 71);
+}
+
+ul {
+    list-style-type: "";
+  }
+
+body {
+background-color: rgb(244, 244, 244);
+}
+  
